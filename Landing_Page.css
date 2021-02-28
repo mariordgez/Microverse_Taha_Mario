@@ -1,0 +1,14 @@
+#nav-bar{overflow: hidden;
+  background-color: rgb(252, 250, 250);
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+#navbar a {
+    float: inline-start;
+    display: flex;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
